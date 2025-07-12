@@ -1,0 +1,5 @@
+cd nova
+git add .
+git commit -m "Initial Clarity MVP"
+git remote add origin https://github.com/ilya174/nova.git
+git push -u origin main
